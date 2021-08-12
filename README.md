@@ -18,20 +18,16 @@ JSON files and CSV files(for map visualization)
 
 ## Libraries Used
 
-###devexpress and bootstrap
+### devexpress and bootstrap
 
 Used to generate desired line chart according to parameters selected
 
-###react-simple-maps and d3
+### react-simple-maps and d3
 
 Used to generate map for map visualization
 
-##Docs
+## Docs
 
 Docs for both frontend and python script included in respective folders
 Front end docs generated using jsDocs
 Python script docs generated using sphinx
-
-
-
-
