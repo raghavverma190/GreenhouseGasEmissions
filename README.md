@@ -16,6 +16,10 @@ in the front end directory.
 Navigate to the python_script/script folder and run the script.py file to CLEAN, Generate
 JSON files and CSV files(for map visualization)
 
+Before running the script, create the 'json_data' folder and 'MapVisualizationData' folder in the same directory as the script.
+
+Use calls.py to run the script
+
 ## Libraries Used
 
 ### devexpress and bootstrap

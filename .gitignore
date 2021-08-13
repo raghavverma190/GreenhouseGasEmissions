@@ -3,3 +3,5 @@ node_modules
 jsdoc.conf.json
 
 python_script/script/__pycache__
+
+build
